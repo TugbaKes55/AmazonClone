@@ -15,3 +15,5 @@ This project involves a simple clone of Amazon website. It is made using HTML an
 - CSS3
 
 # Preview
+
+![amazon-ezgif com-video-to-gif-converter](https://github.com/TugbaKes55/AmazonClone/assets/170290830/d8fe2b21-f518-4383-ad01-cfeee73201b0)
